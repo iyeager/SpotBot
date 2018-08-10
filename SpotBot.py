@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = 'NDc2MTkyMDkyMTI5OTg0NTEz.DkqCUQ.iCR2OTG5sqLARLOb81x8or4YtQU'
+TOKEN = '__TOKEN__'
 
 client = discord.Client()
 
